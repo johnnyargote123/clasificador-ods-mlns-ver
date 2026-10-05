@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
+
+# Datos del curso: no se publican
+data/
+
+# Script de un solo uso para reducir el modelo
+reducir_modelo.py
